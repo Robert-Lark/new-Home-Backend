@@ -8,3 +8,7 @@
 </h1>
 
 Created using React and Redux on the frontend and Sanity as a CMS on the backend. 
+
+<a href="https://quietcast.art/">Visit here!</a>
+
+<a href="https://quietcast.art/topten"><h5>For a special easter egg click here to find our top ten favorite albums of 2020<h5></a>
